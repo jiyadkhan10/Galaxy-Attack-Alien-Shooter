@@ -1,4 +1,4 @@
-# Galaxy-Attack-Alien-Shooter
+# Galaxy Attack Alien Shooter
 # Course
 EE2003	Computer Organization and Assembly Language <br />
 
