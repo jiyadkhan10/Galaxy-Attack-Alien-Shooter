@@ -7,7 +7,7 @@ Earth's last hope is in your hands, take control of the lone spaceship and prote
 <br />
 In this project you have to develop a mini version of the alien shooter on the console using Assembly language. You have to develop three different levels of game. The description of each level has been given in the Description.pdf. <br />
 <br />
-Other than these three levels you have to also make game start and end screens. Firstof all start screen will show up the name of the game, followed by the screen that asks for username. At the end, the screen should show the score, level and Win or Lose. <br />
+Other than these three levels you have to also make game start and end screens. First of all start screen will show up the name of the game, followed by the screen that asks for username. At the end, the screen should show the score, level and Win or Lose. <br />
 <br />
 
 # Languages
