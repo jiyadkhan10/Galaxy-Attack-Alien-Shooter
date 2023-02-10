@@ -11,6 +11,6 @@ Other than these three levels you have to also make game start and end screens. 
 <br />
 
 # Languages
-1. Python
+1. Assembly Language
 # Note
 The Description.pdf contains the detailed description of this repository.
